@@ -1,0 +1,11 @@
+# Bitget 专用规则集
+# 保存为 bitget.list
+
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitgetglobal.com
+DOMAIN-SUFFIX,bitgetpro.com
+DOMAIN-SUFFIX,api.bitget.com
+DOMAIN-SUFFIX,ws.bitget.com
+DOMAIN-SUFFIX,websocket.bitget.com
+DOMAIN-SUFFIX,static.bitget.com
+DOMAIN-SUFFIX,cdn.bitget.com
